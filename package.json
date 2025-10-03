@@ -1,0 +1,31 @@
+{
+  "name": "mitema",
+  "displayName": "miTema",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TemitaGuapo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TemitaGuapo-color-theme.json"
+      },
+      {
+        "label": "Cyber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyber-color-theme.json"
+      },
+      {
+        "label": "amaranth-red-eerie-black-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/amaranth-red-eerie-black-fork-color-theme.json"
+      }
+    ]
+  }
+}
