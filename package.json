@@ -12,19 +12,74 @@
   "contributes": {
     "themes": [
       {
-        "label": "TemitaGuapo",
+        "label": "DIEGO_TemitaGuapo",
         "uiTheme": "vs-dark",
         "path": "./themes/TemitaGuapo-color-theme.json"
       },
       {
-        "label": "Cyber",
+        "label": "DIEGO_Cyber",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyber-color-theme.json"
       },
       {
-        "label": "amaranth-red-eerie-black-fork-color-theme",
+        "label": "DIEGO_amaranth-red-eerie-black-fork-color-theme",
         "uiTheme": "vs-dark",
         "path": "./themes/amaranth-red-eerie-black-fork-color-theme.json"
+      },
+      {
+        "label": "DIEGO_belch-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/belch-fork-color-theme.json"
+      },
+      {
+        "label": "DIEGO_wired-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wired-fork-color-theme.json"
+      },
+      {
+        "label": "DIEGO_OneDark-Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark-Pro.json"
+      },
+      {
+        "label": "DIEGO_punk-runner-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/punk-runner-fork-color-theme.json"
+      },
+      {
+        "label": "DIEGO_retro-pastels-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/retro-pastels-fork-color-theme.json"
+      },
+      {
+        "label": "DIEGO_my-flower-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/my-flower-fork-color-theme.json"
+      },
+      {
+        "label": "DIEGO_sakura-v-1-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sakura-v-1-fork-color-theme.json"
+      },
+      {
+        "label": "DIEGO_pedro-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pedro-fork-color-theme.json"
+      },
+      {
+        "label": "DIEGO_sakura-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sakura-fork-color-theme.json"
+      },
+      {
+        "label": "DIEGO_mossy-lawn-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mossy-lawn-fork-color-theme.json"
+      },
+      {
+        "label": "DIEGO_elementary-fork-fork-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/elementary-fork-fork-color-theme.json"
       }
     ]
   }
