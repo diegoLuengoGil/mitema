@@ -80,6 +80,11 @@
         "label": "DIEGO_elementary-fork-fork-color-theme",
         "uiTheme": "vs-dark",
         "path": "./themes/elementary-fork-fork-color-theme.json"
+      },
+      {
+        "label": "DAITOR_dark-moder-2-0-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-moder-2-0-color-theme.json"
       }
     ]
   }
